@@ -9,4 +9,4 @@ Android TextView左边带一个长方形的条形
 
 截图
 ===
-![current work](./screenshots/view.png)
+![current work](./screenshot/view.png)
